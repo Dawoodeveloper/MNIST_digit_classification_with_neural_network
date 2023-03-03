@@ -37,7 +37,7 @@ executing==1.2.0
 fasteners==0.14.1
 fastjsonschema==2.16.2
 fqdn==1.5.1
-future==0.18.2
+future==0.18.3
 httplib2==0.20.2
 idna==3.3
 importlib-metadata==4.6.4
